@@ -21,7 +21,7 @@ npm install
 Run the application using the following command:
 
 ```bash
-node index.js
+./Groot.mjs
 ```
 
 ### Example Commands
